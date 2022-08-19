@@ -1,0 +1,14 @@
+.button{
+
+  width: 40%;
+  border-radius:5px ;
+  background-color: seagreen;
+  padding: 5px 40px;
+  border: none;
+
+  color: white;
+}
+.block-text{
+  display:inline-block;
+  background-color: aqua;
+}
